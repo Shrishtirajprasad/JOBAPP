@@ -87,7 +87,7 @@ public class CategoryAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
         ImageView image;
         TextView text;
         CardView lyt_parent;
-
+Cardviewfake
         ItemRowHolder(View itemView) {
             super(itemView);
             image = itemView.findViewById(R.id.image);
